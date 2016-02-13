@@ -1,6 +1,6 @@
 name: Day In The Life
 favicon: null
-layout_spectrum: 0.27274716342799366
+layout_spectrum: 1
 typography_spectrum: 0.8382376825902611
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#f3f1ed'
+    - '#00b3fd'
+    - '#afafaf'
+    - '#333333'
+    - '#db6060'
   brandStrength: 0.9855604644399136
   lightness: 0.18751709535717964
   saturation: 0.7411198045592755
